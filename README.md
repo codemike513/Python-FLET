@@ -1,2 +1,2 @@
-# Python-FLET-Calculator
-FLET - A Python Library combination of Python and Flutter. A Calculator UI using Flet.
+# Python-FLET
+FLET - A Python Framework that is combination of Python and Flutter. Repository of applications built using Flet Framework.
